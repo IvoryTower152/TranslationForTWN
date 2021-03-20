@@ -1,5 +1,7 @@
 ### 翻译训练 Chapter_1_02
 
+**2021/03/14**
+
 #### 句子
 
 - Various glowing advertisements of it had appeared in the papers.

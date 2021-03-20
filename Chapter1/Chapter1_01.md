@@ -1,5 +1,7 @@
 ### 翻译训练 Chapter_1_01
 
+**2021/03/13**
+
 #### 句子
 
 - In the corner of a first-class smoking carriage, Mr. Justice Wargrave, lately retired from the bench, puffed at a cigar and ran an interested eye through the political news in the Times.
